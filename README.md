@@ -35,6 +35,4 @@ Includes all the tests in `test_resources`
 Author
 ========
 
-* Yihuan Zhou
-
-Based on the Java implementation by Steve Jiang and using agent data from BrowserScope
+Forked from https://github.com/tobie/ua-parser/tree/master/go/uaparser
